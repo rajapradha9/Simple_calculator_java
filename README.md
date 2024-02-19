@@ -1,3 +1,3 @@
 This is my first Git Repository.
 
-<h1>Helo</h1>
+<h1>Hello</h1>
